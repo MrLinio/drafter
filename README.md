@@ -1,10 +1,7 @@
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs=" crossorigin="anonymous"></script>
 
-<script src="/demo.js"></script>
  
-<script>
-document.getElementById("text").innerHTML = "Text added by JavaScript code";
-</script>
+
 
 
 ## Drafter
@@ -12,3 +9,7 @@ document.getElementById("text").innerHTML = "Text added by JavaScript code";
 Small and compact app to draft your cards for your favorites boardgames
 
 <div id="text"></div>
+
+<script>
+document.getElementById("text").innerHTML = "Text added by JavaScript code";
+</script>
